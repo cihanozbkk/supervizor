@@ -82,7 +82,7 @@ mutelog.send(new MessageEmbed().setColor('RANDOM').setAuthor(message.member.disp
 exports.conf = {
   enabled: true,
   guildOnly: true,
-  aliases: ["seslisustur", "vmute", "smute", "sesmute"],
+  aliases: ["vm", "vmute", "smute", "sesmute"],
   permLevel: 0,
 }
 
